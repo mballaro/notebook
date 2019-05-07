@@ -1,0 +1,10 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - dask
+  - netCDF4
+  
